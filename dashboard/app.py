@@ -1030,7 +1030,7 @@ elif page == "ℹ️ About Project":
     st.header("ℹ️ About the Project")
 
     st.markdown("""
-    ## 📊 Social Media Sentiment Analysis
+    ## 📊 Social Media Sentiment Analyzer
 
     This project uses **Machine Learning and Natural Language Processing (NLP)**
     to analyze social media posts and classify them into:
